@@ -1,0 +1,19 @@
+.hero-section {
+    min-height: 80vh;
+    display: flex;
+    align-items: center;
+}
+
+.card-image {
+    height: 220px;
+    object-fit: cover;
+}
+
+.navbar-brand {
+    letter-spacing: 0.5px;
+}
+
+footer p,
+footer small {
+    margin: 0;
+}
